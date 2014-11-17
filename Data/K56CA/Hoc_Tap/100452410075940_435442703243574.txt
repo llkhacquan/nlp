@@ -1,0 +1,7 @@
+[Hỏi đáp] Các thím cho hỏi chút (ko liên quan đến cách làm nhé chỉ là về mặt ngữ nghĩa thôi):
+For the alphabet {0, 1}, let A={w | w has an even number of 0s or exactly two 1s}
+ Cho mình hỏi cái chỗ "exactly two 1" cái nào đúng:
+A: chỉ có 11 là thỏa mãn
+B: 011 , 101, ..... miễn là có 2 số 1.
+
+Các thím trả lời dùm, Thanks

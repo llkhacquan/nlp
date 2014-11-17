@@ -1,0 +1,1 @@
+[Hỏi han] anh/chị/mọi người có ai biết cách cài openGL và thư viện glut vào devC trên win 8.1 kô chỉ e với ạ? E thử cài theo cách cô bảo nhưng nó cũng lỗi suốt, bạn e cài trên win 7 thì dk luôn nên e nghĩ là do win. E cảm ơn!

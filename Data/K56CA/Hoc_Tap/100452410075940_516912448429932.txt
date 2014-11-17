@@ -1,0 +1,10 @@
+[THỬ NGHIỆM HỆ THỐNG] Chào các bạn, hiện mình đang là sinh viên nghiên cứu khoa học với thầy Trương Anh Hoàng, bộ môn công nghệ phần mềm.
+Trong thời gian qua mình đã nghiên cứu để cài đặt một hệ thống mã nguồn mở lên server trường mình + dịch thuật nó ra tiếng Việt. Hệ thống này là hệ thống edX, giúp quản lý các khóa học giống kiểu bcc. Nguồn: code.edx.org
+Hiện nay mã nguồn vẫn đang tiếp tục trong quá trình phát triển (bởi các coder nước ngoài) và dịch thuật. Trên hệ thống trường mình, mình đã triển khai một khóa học Demo (import từ phiên bản tiếng Anh và dịch ra tiếng Việt).
+Nay mình muốn thử nghiệm hệ thống rộng rãi + lấy ý kiến đánh giá để có hướng tiếp tục nghiên cứu thêm. Mong các bạn có thể ủng hộ để biết đâu sang năm ta có thể thay cái bbc
+Web: mooc.truongnha.com
+Account test: test1@example.com, test2@example.com ... test5@example.com. Pass: edx (vì hệ thống gửi mail chưa hoạt động nên mình lập acc dùm các bạn. Các bạn lấy account nào để test cũng đc)
+Sau khi thử nghiệm hệ thống, các bạn có thể vui lòng giúp mình làm khảo sát này:
+https://docs.google.com/forms/d/1zY_zT4ZVmdA3zb8y4BeaqXRXoIWiCvX4e_K_muyfk9s/viewform
+Tks all
+P/s: có gì khó khăn thì liên lạc với mình qua fb nhé!

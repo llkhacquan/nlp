@@ -1,0 +1,6 @@
+5. What is a finite state automaton? Give a finite state automaton that recognizes the
+set L of strings on {a,b} which contain exactly an even number of a's. Can you give
+a regular expression R that represents this language (i.e. the language associated
+with R is L: L = L(R))?
+
+anh em nào làm được câu này chưa? trong đề năm trước đó!

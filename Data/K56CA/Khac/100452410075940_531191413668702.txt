@@ -1,0 +1,2 @@
+Máy mình vẫn có tín hiệu mạng dây bình thường, vào wifi do máy khác bắt thì vào mạng bình thường nhưng tắt wifi dùng mạng dây thì lại không vào được. Có ai biết cách xử lý không? 2 hôm nay muốn dùng mạng toàn phải dùng nhờ máy.
+P/s: mình dùng ubuntu

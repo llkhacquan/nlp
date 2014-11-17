@@ -1,0 +1,3 @@
+Tình hình là mình vừa update Bài giảng Mạng máy tính của thầy Hồ Đắc Phương (dạng audio + slide).
+Hướng dẫn sử dụng: Vào folder từng bài giảng. Chạy file scan.hta và đợi thành quả.
+Nếu nó có hiện cái dòng vàng vàng thì Click phải/ Allow Blocked Contain...

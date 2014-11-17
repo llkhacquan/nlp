@@ -1,0 +1,2 @@
+[OOAD] làm thế nào để tạo ra được cái này bằng Rational Rose thế.
+Tớ cứ gõ <<boundary>> thì nó tự động chuyển thành cái hình tròn tròn.

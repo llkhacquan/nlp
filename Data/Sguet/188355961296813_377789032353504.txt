@@ -1,0 +1,3 @@
+ac cho e hỏi là trong java có hàm paint() để vẽ lại ảnh trong mỗi lần gọi
+nhưng giờ e muốn trong 1 chuong trình khi gặp 1 điều kiện nào đó thì hàm paint() đc vẽ lại xong có 1 hình tiếp theo đc vẽ.
+vd nhứ e có 1 vòng for cho i chạy từ 1 -> 4 nếu i = 1,2,3 thì chỉ vẽ lại = những j có trong hàm paint() thôi,còn neessu i=4 thì sẽ vẽ lại sau đó thêm 1 ảnh vd là có tên là "1.jpg" vào  ạ :p

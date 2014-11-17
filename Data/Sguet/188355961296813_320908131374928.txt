@@ -1,0 +1,11 @@
+Có ac trong nhóm học js giải thích hộ e cái đoạn code này vs ak
+<script language="javascript">
+<!--Coded by Kalenz-->
+var msg=document.getElementsByName("dnth");
+for(var i=0;i<msg.length;i++){
+var oldtext=document.getElementsByName("dnth")[i].innerHTML;
+var newtext=oldtext.replace(/(^|[\n ])([\w]+?:\/\/[^ ,\"\n\r\t<]*)/ig, "$1<a href='$2'>$2</a>");
+document.getElementsByName("k4smsg")[i].innerHTML=newtext;
+}
+//-->
+</script>

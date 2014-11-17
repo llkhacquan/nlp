@@ -1,0 +1,17 @@
+có anh chị nao giải thích hộ em cái thời khóa biểu với
+
+Mã môn học Tên môn học Số TC Lớp môn học Giáo viên Sĩ số Thứ Tiết Giảng đường Ghi chú
+INT1003 Tin học cơ sở 1 2 INT1003 1 ThS.Đào Kiến Quốc 60 3 9-10 3-G3 Cả lớp
+INT1006 Tin học cơ sở 4 3 INT1006 1 TS.Nguyễn Văn Vinh 60 4 6-7 3-G3 Cả lớp
+MAT1094 Giải tích 1 5 MAT1094 1 TS.Hà Đức Vượng 60 6 1-3 309-GĐ2 Cả lớp
+PHY1100 Cơ - Nhiệt 3 PHY1100 2 TS.Phùng Quốc Thanh 60 3 1-3 309-GĐ2 Cả lớp
+FLF1105 Tiếng Anh A1 4 FLF1105 2 Trường ĐHNN 30 3 6-8 301-GĐ2 Nhóm 1
+FLF1105 Tiếng Anh A1 4 FLF1105 2 Trường ĐHNN 30 2 1-3 107-G2 Nhóm 1
+INT1006 Tin học cơ sở 4 3 INT1006 1 ThS.Ma Thị Châu 30 4 8-10 PM 202-G2 Nhóm 1
+MAT1094 Giải tích 1 5 MAT1094 1 TS.Hà Đức Vượng 30 5 1-2 303-GĐ2 Nhóm 1
+INT1001 Tin học cơ sở 1  4 INT1001 2 ThS.Vũ Diệu Hương 30 5 6-8 PM 207-G2 Nhóm 1
+MAT1094 Giải tích 1 5 MAT1094 1 TS.Hà Đức Vượng 30 5 4-5 305-GĐ2 Nhóm 2
+FLF1105 Tiếng Anh A1 4 FLF1105 14 Trường ĐHNN 30 4 1-3 312-GĐ2 Nhóm 2
+FLF1105 Tiếng Anh A1 4 FLF1105 14 Trường ĐHNN 30 5 1-3 305-GĐ2 Nhóm 2
+INT1001 Tin học cơ sở 1  4 INT1001 1 ThS.Lữ Đăng Nhạc 30 2 6-8 PM 208-G2 Nhóm 2
+INT1006 Tin học cơ sở 4 3 INT1006 1 CN.Vũ Huy Hiển 30 4 8-10 PM 405-E3 Nhóm 2

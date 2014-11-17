@@ -1,0 +1,6 @@
+thím nào bị lỗi này chưa : arm-linux-androideabi-g++: error trying to exec 'cc1plus': execvp: No such file or directory
+
+đã set evironment path
+os: ubuntu 14.04
+
+$PATH=/usr/lib/gcc/x86_64-linux-gnu/4.8:/home/thinh/android~/android/android-ndk-r9d/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin:/home/thinh/android/android-ndk-r9d:/home/thinh/android/android-sdk-linux/tools:/home/thinh/android/android-sdk-linux/platform-tools:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games

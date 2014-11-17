@@ -1,0 +1,7 @@
+Đề logic nhá mọi người
+sau khi học xong quan hệ của các giá trị phán đoán đơn.
+từ giá trị của 1 phán đoán ta có thể suy ra giá trị của những phán đoán khác.
+vd A=c --> I = c
+yêu cầu: cho giá trị của 1 phán đoán đơn, xác định giá trị của 3 phán đoán còn lại
+ta có 4 phán đoán đơn. mỗi phán đoán có 2 giá trị "c" và "g" do đó cần làm tất cả 8 lần
+sau khi làm xong hãy lập 1 bảng tổng kết lại.

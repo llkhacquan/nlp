@@ -1,0 +1,1 @@
+[hỏi ngu] cái n trong input thầy cho biểu diễn size theo số ô con trên 1 cạnh của bảng trò chơi (tức là kiểu bảng 3*3 thì n = 3) hay biểu diễn size theo số ô con của bảng (kiểu 3*3 thì n = 9) vậy??? t k hiểu lắm vì trong input thầy cho n = 3 nhưng cái trò thầy bắt làm tên là nPuzzle thì cái n của thầy lại 8 hoặc 15 (8-puzzle và 15-puzzle)

@@ -1,0 +1,2 @@
+Thông tin truyền mồm từ khóa trên là thầy sẽ complie AI Assignment bằng DevC 4.9.9.5.
+Mấy thím dùng C++ 11 cẩn thận check lại nhé :)

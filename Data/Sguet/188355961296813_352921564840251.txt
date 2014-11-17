@@ -1,0 +1,3 @@
+[HỎI ĐÁP] 
+Mọi người xem ảnh rồi có thể chi mình biết vì sao mà máy tính của mình mới ghost lại song tự dưng khỏi động thì lần nào cũng hiện cái bản đó vậy. Mà nó còn giật giật mãi đến lúc  gõ vào bàn phím thì mới chịu hết. Mình không biết vì sao nó lại bị như vậy cả
+Còn khi mình tắt hẳn chức năng search của windown đi thì nó lại báo lỗi như vậy đó.

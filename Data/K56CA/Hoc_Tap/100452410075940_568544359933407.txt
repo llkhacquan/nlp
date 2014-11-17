@@ -1,0 +1,29 @@
+Đề Cương Chương trình dịch
+0. Tổng quan về chương trình dịch
+- Cấu trúc một chương trình dịch
+- Ứng dụng
+
+1. Phân tích từ vựng
+- Nắm được các khái niệm từ tố (token), từ vị (lexeme)
+- Khái niệm biểu thức chính qui (REs), otomat hữu hạn đơn định (DFA), otomat hữu hạn ko đơn định (NFA)
+- Các thuật toán chuyển đổi: RE-->NFA, NFA-->DFA
+
+2. Phân tích cú pháp
+- Văn phạm phi ngữ cảnh (CFG), sử dụng CFG để biểu diễn cú pháp của ngôn ngữ lập trình
+- Đệ qui trái và khử đệ qui trái
+- Các tiếp cận top-down, bottom-up
+- Tính FIRST, FOLLOW, SELECT
+- Lập bảng phân tích LL(1)
+- Thuật toán phân tích LL(1)
+
+3. Biên dịch dựa cú pháp
+- Văn phạm thuộc tính
+- Thứ tự đánh giá thuộc tính
+
+4. Phân tích ngữ nghĩa
+- Viết luật ngữ nghĩa kiểm tra kiểu tĩnh
+- Áp dụng kiểm tra kiểu cho một đoạn chương trình cho trước
+
+5. Sinh mã trung gian
+- Các loại mã trung gian
+- Cú pháp điều khiển sinh mã ba địa chỉ

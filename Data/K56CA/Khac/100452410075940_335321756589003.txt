@@ -1,0 +1,3 @@
+Cuối cùng thì cũng viết xong phần mềm quản lí học tập :d. Mình đã up vào dropbox của lớp. Ai quan tâm có thể copy về máy dùng nhé :d. Cái này nó chạy trên .NET 4.0, nếu máy ai chưa cài thì vào http://www.download.com.vn/system/other/20690_microsoft-net-framework-version-4-0.aspx down nhé. 
+Có thể down trực tiếp từ https://mega.co.nz/#!chB1TTBJ!GPC0KVg4joPUCMmeLlqBsCi00q0CRJ3l6iZVJnu1i3Q
+ cũng được

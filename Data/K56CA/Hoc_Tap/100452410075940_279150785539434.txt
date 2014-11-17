@@ -1,0 +1,1 @@
+Cai KTMT o ALU 1 bit, hinh nhu thay hoi sai. Trong sach ghi 01: A AND B con 10 la A, dang le la nguoc lai =.=

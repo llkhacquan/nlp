@@ -1,0 +1,2 @@
+[pps]1) sự sai khác cơ bản giữa công thức hình thang và parabol? Công thức nào chính xác hơn, vì sao?
+2) có thế xem phương pháp tiếp tuyến là một trường hợp đặc biệt của phương pháp lặp đơn hay ko? Vì sao?

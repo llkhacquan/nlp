@@ -1,0 +1,6 @@
+Nhân tiện các tân sv mới tiếp nhận mailbox của trường ta, mình chia sẻ cách check ctmail qua gmail (sau khi hoàn tất, các bạn sẽ ko phải vào ctmail thêm 1 lần nào nữa):
+1. Các bạn vào Gmail -> Settings
+2. Accounts and Import
+3. Check mails from other accounts: -> Add a POP3 mail account you own
+4. Làm theo các bước mà quá trình setup shows up.
+Hi vọng các bạn cảm thấy tiện lợi với cách này.

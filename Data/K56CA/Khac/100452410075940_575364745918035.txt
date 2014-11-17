@@ -1,0 +1,2 @@
+ví dụ tính fft :
+http://dsp.stackexchange.com/questions/9040/calculating-an-images-fourier-spectrum-by-hand

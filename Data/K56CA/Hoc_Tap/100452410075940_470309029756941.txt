@@ -1,0 +1,3 @@
+Thắc mắc Assign01:
+Mình in ra 2 số, 1 là optimal move, 2 là số states đã generated. Optimal move ở đây có phải chính là hàm g() của state cuối cùng không? Vì g() được định nghĩa là cost từ initialState đến goalState?
+Tiếp, cái state đã generated thì các thím để là số các state đã explore, hay là các state đã duyệt trong queue?

@@ -1,0 +1,7 @@
+anh em cho mình hỏi phát :v
+
+Trong bài này, thì "bytes" ở đây nghĩa là sao nhỉ ?
+Prove that you are one of us! This is the new algorithm we have developed for our VenaSploit tool
+We give you a set of character, you need to give me back a long enough string such that every 4 consecutive bytes is unique
+All characters in the charset should be included for it to be valid. A charset is given between the tag <pre>
+Example: <pre>01</pre> length: 8 , Answer: 00010111

@@ -1,0 +1,2 @@
+[Tutorial] Hướng dẫn sử dụng Moss (ĐH Standford USA)- Công cụ được Đại học Công nghệ sử dụng để kiểm tra sao chép code. Rất hữu ích cho mọi người kiểm tra bài trước khi upload, tránh trường hợp bị oan uổng ko đáng có :)
+http://www.youtube.com/watch?v=bOaXhciDQ_M&feature=youtu.be

@@ -1,0 +1,1 @@
+[NGHIÊN CỨU KHOA HỌC] Mình mong muốn nghiên cứu khoa học về Ruby on Rails và đã liên hệ với thầy trương anh hoàng. Bạn nào có hướng thú tham gia cùng không? Nó khá là giống với Django và python trong môn Công nghệ phần mềm. Nó là xu hướng làm web mới và đang phát triển rất tốt. Github, Bitbuket đều làm bằng Ruby on Rails.

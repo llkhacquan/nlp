@@ -1,0 +1,2 @@
+[Hỏi ngu] 1 Vector hướng từ trái sang phải  vd: ------->
+Nó hỏi direction của vector đó thì mình trả lời là trái hay phải????

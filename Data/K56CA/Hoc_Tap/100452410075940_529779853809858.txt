@@ -1,0 +1,1 @@
+[Đồ họa máy tính]Các bạn có biết làm sao để chạy compile xong mà nó chỉ chạy cái mang hình opengl mà ko chạy lên cái màn hình console ko? bài demo của cô ko có cái console ấy

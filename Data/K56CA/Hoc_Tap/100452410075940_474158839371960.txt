@@ -1,0 +1,20 @@
+Hi Mười,
+
+2013/12/9 Trần Đức Mười <hidrodo@gmail.com>
+Em chào thầy, em là Trần Đức Mười, K56CA. Trong quá trình hoàn thành bài tập lớn, tức implement nPuzzle bằng thuật toán A*, em có gặp một số vấn đề thắc mắc muốn hỏi thầy như sau:
+
+1. Kích thước của bảng (n) có giới hạn không ạ?
+->Kích thước không quá 10.
+ 
+
+2. Đề bài yêu cầu implement A*, trong đó, theo thuật toán A* thì phải duyệt hết qua tất cả các trạng thái thì mới có thể kết luận rằng bài toán không có lời giải (output: -1). Theo đó, giả sử input vào là 4x4 thì phải duyệt đến (16!)/2-1 trạng thái, điều này khiến cài đặt chương trình của em khá khó khăn. Em muốn hỏi, rằng có được phép dùng toán và chứng minh ngay từ input để có thể kết luận không có solution hay không?
+->Em cứ phải duyệt hết. Theo bộ nhớ em có thể có giới hạn số trạng thái tối đa lưu được và nếu quá đó thì coi như là không có nghiệm. Các tests sẽ không để số trạng thái quá lớn.
+ 
+
+3. Đề bài có yêu cầu là dùng DevC để complie, nhưng vấn đề đặt ra là DevC phiên bản nào. Vì trên thực tế DevC phiên bản thấp hơn không hỗ trợ chuẩn C++11 mà chỉ hỗ trợ C++9. Thêm nữa, em có thể  dùng các cấu trúc dữ liệu sẵn có của C++11, ví dụ như unordered_set hay không?
+->Em dùng devC phiên bản stable mới nhất, cụ thể là DevC++4.
+
+Sơn.
+
+--> Email của thầy Sơn. Theo đó, phải duyệt hết các trạng thái để chứng minh nó không có nghiệm, thay vì kiểm tra ngay từ đâu. Và DevC++ phiên bản 4.
+Anh em chú ý nhé.

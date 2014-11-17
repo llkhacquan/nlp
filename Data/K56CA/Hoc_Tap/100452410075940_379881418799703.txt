@@ -1,0 +1,2 @@
+Trò mèo à, thay vi cố nén vào file a4 thì chúng ta mang 4 tờ A4 vào nhưng một lúc chỉ dung 1 tờ thôi :ờ:
+Cái này gọi là overlay

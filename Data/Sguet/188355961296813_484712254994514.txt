@@ -1,0 +1,3 @@
+Em muốn hỏi hàm lấy thời gian hệ thống trong Visual Studio C++.
+Anh/chị/bạn nào biết thì chỉ em với ạ. 
+Em đã tìm gg rồi, có kết quả nhưng không dùng được. Báo lỗi hết ạ. :)

@@ -1,0 +1,3 @@
+trong slide 5. ở phần page table có bit valid và invalid để xác định xem trang đó có nằm trong logical memory không.
+Trong slide 6. thì lại xác định xem nó có nằm trong physical memory không.
+Ai giải thích hộ với ?

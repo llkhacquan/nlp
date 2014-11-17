@@ -1,0 +1,3 @@
+Bác nào giúp với ạ:  
+Dùng các linh kiện đơn giản sẳn có để thiết kế thiết bị hạ điện áp 1 chiều mà KHÔNG GÂY HAO PHÍ do thiết bị gây ra ( hạ bằng điện trở thì có hao phí P=i2Rt rồi ạ)
+Ví dụ hạ từ 7V->5V ạ,  các linh kiện đơn giản có thể tự kiếm được ạ! Bác nào giúp thì 30k i-share ,2friends ,M2U đang sẵn sàng bay đến đó ạ!

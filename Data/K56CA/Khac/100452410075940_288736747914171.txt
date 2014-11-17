@@ -1,0 +1,10 @@
+Nhờ tí :
+Bác nào đang xài Ubuntu thì cho em xin vìa kí tự với đang bị lỗi @@@, mà quên mất mấy chữ đó rồi T_T. CỤ thể là thế này :
++ xài Ubuntu ,Môi trường Gnome - Shell ( không phải Unity nhé)
++ xài theme GTK
++ đã cài compiz ( ccsm - CompizConfig Setting Manager)
+
+Ai xài nhưng cái trên thì vào xem giùm nhé
+login Gnome -> vào CompizConfig Setting Manager -> Windown Decoration : trong mục command copy giùm mấy cía chữ đó ra đây giùm với.
+Luís Ngô Fabio Ngo Tiểu Xung Rikudou Sennin vẫn xài Ubuntu chứ @@@
+Thanks nhiều :D

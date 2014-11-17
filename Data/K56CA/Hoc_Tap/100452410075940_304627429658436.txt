@@ -1,0 +1,8 @@
+câu viết bằng chữ in hoa là đúng hay sai ?
+
+mức private:  chỉ có  mã bên  trong  cùng một lớp  mới  có thể truy  nhập được 
+những thứ private. private ở đây có nghĩa "của riêng lớp" chứ không phải "của 
+riêng  đối  tượng".  MỘT  ĐỐI  TƯỢNG  DOG  CÓ  THỂ  SỬA  CÁC BIẾN  PRIVATE  HAY  GỌI PHƯƠNG THỨC PRIVATE CỦA MỘT ĐỐI TƯỢNG DOG KHÁC, nhưng một đối tượng Cat thì thậm chí không 'nhìn thấy' các thứ private của Dog. Các đối tượng Dog cũng 
+không thể 'nhìn thấy' các biến / phương thức private của các đối tượng Animal, 
+kể cả phần Animal mà nó được thừa kế. 
+(trích trong GT oop tiếng việt của cô, T 105)

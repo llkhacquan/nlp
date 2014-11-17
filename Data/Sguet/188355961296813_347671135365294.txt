@@ -1,0 +1,1 @@
+cho e/t hỏi môn xử lí tín hiệu số, trong khung chương trình đạo tạo có ghi môn đó 3 tín chỉ, t định học để đủ 5 tín chỉ các môn bổ trợ luôn nhưng trong đkí môn học thì môn ấy chỉ 2 tín chỉ ???????

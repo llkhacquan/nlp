@@ -1,0 +1,1 @@
+Một phân xưởng sản xuất bóng đèn đạt trung bình là 70% sản phẩm loại tốt. Tìm xác suất để trong 1000 bóng đèn có từ 652 đèn 760 bóng đèn loại tốt.

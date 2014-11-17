@@ -1,0 +1,4 @@
+[HỎI HAN] Vấn đề cấp MBR vs PBR khi cài win song song.
+Các bác cho em hỏi, hôm nay em dùng BootICE để Activer ổ (E): [Chứa win 8]. Không hiểu sao khi em Activer song cho cái ổ E thì cái ổ C [Chứa win 7] lại mất Activer. Sau đó em cấp PBR cho ổ E và MBR thì khi khởi động lại thì mất cái menu boot mà nó boot thẳng vào win8. 
+Em lại làm lại vs win 7. Là Activer ổ C thì ổ E mất Activer, rồi lại cấp PBR và MBR. Em sửa lại cái menu boot thì luk khởi động lại có menu boot thật đó. Nhưng mà vào win 7 thì dk, còn vào win 8 nó báo 1 đống các chữa cái *Ns chung là nó bảo Repart your.......* Là ko vào dk win8.
+Có ai biết phải làm nào ko, trợ giúp mình với.

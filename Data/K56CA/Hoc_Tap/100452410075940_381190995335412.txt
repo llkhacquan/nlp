@@ -1,0 +1,1 @@
+Anh nào giải thích cho em biết câu 6b chương 4. Tại sao hàm lẻ biến mất. Tại sao tích phân sin^4(x) lại ra thành 3/4*1/2*x ??? :(

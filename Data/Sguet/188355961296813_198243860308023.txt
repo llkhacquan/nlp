@@ -1,0 +1,1 @@
+e cho chương trình chạy thì nhập xong dữ liệu nó tự tắt là sao nhỉ

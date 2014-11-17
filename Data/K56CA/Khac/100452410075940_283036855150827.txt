@@ -1,0 +1,3 @@
+Em vừa check:|
+tình hình là mấy cái file đấy last modified từ bao giờ rồi, chắc là lỗi dropbox :surrender:
+nếu đứa nào xóa đi copy lại thì cũng phải removed trước rồi added sau:ah:

@@ -1,0 +1,2 @@
+H0 : v2 =6;H1:V2<6 n=20 S2=4.51alpha=0.05
+dùng phương pháp p giá trị kiểm định giả thiết trên .Bài này làm như thế nào hả mọi người tớ tưởng p value chỉ dùng cho kỳ vọng và tỷ lệ xác xuất thôi chứ

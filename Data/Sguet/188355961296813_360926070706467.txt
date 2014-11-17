@@ -1,0 +1,2 @@
+các anh các chị các bạn cho Hỏi Chút:
+-kì này mình học môn lập trình hướng đối tượng cô trần thị minh châu,cô bảo cài đặt git để gửi bài lên mạng.... mình có cài git bản 1.8.3 mà cô up cho lớp,  mình cài đi cài lại vài lần mà nó không xuất hiện bảng có Git Clone thế là thế nào ạ.... liệu lúc cài đặt có cần lưu ý gì không.... cảm ơn trước ạ

@@ -1,0 +1,1 @@
+2^logn thì O là bao nhiêu? nhỉ

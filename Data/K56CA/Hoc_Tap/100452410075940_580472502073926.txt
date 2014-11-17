@@ -1,0 +1,3 @@
+[Android][kinh nghiệm] giờ mình đang làm project liên quan đến android ndk và jni, có anh nào đi trước có thể chia sẻ chút kinh nghiệm để học một cách hiệu quả và nhanh hơn ? 
+
+Thêm câu nữa : mình chưa biết gì về android thì học ndk luôn có được không ? :))

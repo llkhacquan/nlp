@@ -1,0 +1,11 @@
+"Thuật toán rất đơn giản: duyệt từng quy tắc đã nạp, với mỗi quy tắc, áp dụng cho xâu input CHO ĐẾN KHI không thể áp dụng được quy tắc đó nữa".
+Nếu Rule là "e: em".
+Nếu file in là "e".
+File out sẽ là gì :-ss
+"em"
+"emm"
+"emmm"
+"emmmm"
+...
+...
+:Gạch:

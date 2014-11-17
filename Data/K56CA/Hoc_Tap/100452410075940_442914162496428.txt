@@ -1,0 +1,3 @@
+[AI]
+Simulated Annealing nghĩa là sao hả các thím?
+ví dụ như trong bài 3 - CSP.pdf thì làm thế nào

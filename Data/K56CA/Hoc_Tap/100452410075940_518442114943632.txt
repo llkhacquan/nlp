@@ -1,0 +1,2 @@
+Có bạn nào làm được bài 2 bài thực hành Phân tích thiết kế hướng đối tượng chưa?
+Bài toán về hệ thống quản lý thư viện, Nhưng chúng ta ko có mô tả thì làm thế nào? cứ bịa ra à ??

@@ -1,0 +1,8 @@
+Which of the following is incorrect about 
+segmentation allocation?
+A. it originates from user’s view of a program
+B. it is also of noncontiguous memory allocation 
+method
+C. segment table has the same structure as page 
+table
+D. segments can have different sizes

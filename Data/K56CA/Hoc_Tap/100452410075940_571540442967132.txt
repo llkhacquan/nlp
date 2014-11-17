@@ -1,0 +1,1 @@
+[chương trình dịch] nếu muốn kiểm tra kiểu của source thì phải xây dựng cả cái parse tree à ? hay làm thế nào ? giờ biết mỗi trả lời luôn là đúng sai chứ không biết chi tiết ra sao :(

@@ -1,0 +1,3 @@
+Các anh chị và các bạn cho em/mình hỏi 1 điều với ạ.
+Hiện tại em đang định bật telnet lên nhưng mà bật tới cái này nó lại không ra cái tick telnet client.
+Đại ca nào pro chỉ mình với a. :)

@@ -1,0 +1,1 @@
+Mọi người cho hỏi cái lỗi missing docstring khi chạy pylint là gì và cách sửa ntn?

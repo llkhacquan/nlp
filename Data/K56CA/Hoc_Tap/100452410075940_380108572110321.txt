@@ -1,0 +1,9 @@
+A system uses paging
+ the frame size of 4KB; 
+ the address register is 32 bits
+Which of the following is correct about register 
+segmentation?
+A. (page:offset) = (19:13)
+B. (page:offset) = (21:11) 
+C. (page:offset) = (22:10)
+D. (page:offset) = (20:12)

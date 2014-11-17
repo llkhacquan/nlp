@@ -1,0 +1,3 @@
+Chào các bạn, bọn mình đang làm một plugin Eclipse về kiểm tra các điều kiện về Java Coding , bọn mình cần thu thập các luật (bộ) check cho chương trình. Rất mong nhận được nhiều câu trả lời từ các bạn.
+
+https://docs.google.com/forms/d/1FjBwrhjHAh9hQMA_7huc9BqdOISNDr0K0PFWUxykxyg/viewform

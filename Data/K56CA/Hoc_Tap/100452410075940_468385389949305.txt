@@ -1,0 +1,1 @@
+F*ck, viết cái chương trình nPuzzle chỉ có mất có 2 ngày, hí hửng đem chạy, nào ngờ phải mất đến 30 phút mới sinh được 9! = 362880 states. Phen này lại mệt rồi.

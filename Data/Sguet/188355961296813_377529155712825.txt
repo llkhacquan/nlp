@@ -1,0 +1,2 @@
+Viết ra tông của cấp số nhân này cho em với anh chi ơi ?
+cos(x/2)*cos(x/4)*cos(x/8).....(cos(x/2^n)

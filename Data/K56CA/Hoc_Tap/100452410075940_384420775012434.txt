@@ -1,0 +1,2 @@
+Which grammar generates the language of the first
+order logic with variables x,y,z ?

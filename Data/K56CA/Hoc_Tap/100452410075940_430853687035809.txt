@@ -1,0 +1,2 @@
+[THEORY OF COMPUTATION] Homework assignment 2.
+Bài 1.2 đã được sửa thành 1.20. thầy viết nhầm.

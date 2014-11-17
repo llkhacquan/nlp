@@ -1,0 +1,1 @@
+[Lập trình thi đấu]. Bài 2 có ai có thuật tốt hơn O(n) ko

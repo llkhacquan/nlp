@@ -1,0 +1,14 @@
+Loại phím nào trên bàn phím mà tác dụng của nó được xác định tuỳ thuộc vào các phần mềm cụ thể :
+ 
+A. 
+
+Phím soạn thảo
+B. 
+
+Phím số
+C. 
+
+Phím chức năng
+D. 
+
+Phím điều khiển

@@ -1,0 +1,5 @@
+Cơ chế spooling cho phép
+A. Giảm tổng thời gian làm việc của các thiết bị
+B.  Giảm thời gian kết thúc xử lý
+C.  Giảm công sức của người vận hành máy
+D. Giảm thời gian CPU

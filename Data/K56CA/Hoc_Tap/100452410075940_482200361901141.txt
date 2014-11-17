@@ -1,0 +1,1 @@
+Ví dụ 15. Từ một tập hợp chính có trung bình  (chƣa biết), ngƣời ta lấy ra một mẫu kích thƣớc n=36 và tính đƣợc X ngang = gì gì đó, và S = 780 (ví dụ 15, slide chương 8). Bạn nào thông não hộ mình phát, S ở đây nó là cái gì, tại sao độ lệch chuẩn lại là cái S/căn(n) ???

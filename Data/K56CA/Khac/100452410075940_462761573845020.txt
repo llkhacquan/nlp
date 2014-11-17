@@ -1,0 +1,1 @@
+[ubuntu]cho t hỏi có cách nào mở 1 file .mdb bằng libreoffice base không vậy?

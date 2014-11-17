@@ -1,0 +1,5 @@
+Mọi người ai học Đồ hoạ máy tính rồi cho mình hỏi cái nhỉ : mình muốn hỏi về việc sử dụng opengl với code block (với devc thì mình làm dc rồi),  mình đã làm đúng theo hướng dẫn của các a khoá trước trên fotech là theo bài hướng dẫn: http://www.sci.brooklyn.cuny.edu/~goetz/codeblocks/glut/
+
+Theo bài mẫu là tạo 1 GLUT project thì sẽ có code mặc định, còn mình muốn tự code nên tạo 1 Empty project, cũng đã add thêm -lglut32, -lopengl32 -lwinmm -lgdi32 (thử cả trường hợp ko có dấu gạch trc và th dẫn đường dẫn) cùng với code mà mình đã làm thành công trên devc, nhưng mà chương trình vẫn ko hoạt động vào báo có 1 error là : ld.exe     cannot find -l-lglut32. (ko tìm thấy cái -l-lglut32 - mình ko hiểu mặc dù mình add đúng vào link chỉ là -lglut32 )
+
+Mọi người giúp mình với nha, tks

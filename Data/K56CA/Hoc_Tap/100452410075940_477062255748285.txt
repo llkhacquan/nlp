@@ -1,0 +1,9 @@
+[BTL CSDL]
+Chuẩn Boyce-Codd định nghĩa trong slide của thầy có sai sót nhé:
+Quote: "Một  lược  đồ  quan  hệ  R  được  gọi  là  ở  dạng  chuẩn
+Boyce-Codd (BCNF) nếu nó :
+- Thỏa mãn dạng chuẩn 3NF 
+- Không  có  các  thuộc  tính  khóa  phụ  thuộc  hàm  và  thuộc
+tính không khóa."
+
+Chính xác dòng 3 là: "  Không  có  các  thuộc  tính  khóa  phụ  thuộc  hàm  vào  thuộc tính không khóa"

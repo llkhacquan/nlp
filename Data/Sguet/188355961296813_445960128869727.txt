@@ -1,0 +1,3 @@
+Khoa CNTT trường mình kết hợp với học viện NetPro tổ chức cuộc thi Học bổng ngành CNTT dành cho các bạn nữ sinh và các bạn bí thư, lớp trưởng, giải thưởng là học bổng toàn phần về CCNA, Security, .Net, ... với cả cơ hội thực tập việc làm sau khóa học.
+
+Các bạn bí thư, lớp trưởng đọc thông tin trong form rồi triển khai về lớp nhé, đây là 1 cơ hội khá thiết thực và hữu ích dành cho mọi người :D

@@ -1,0 +1,4 @@
+vl, logisim-win-2.7.1 vừa update lên bản mới nhất
+ Windows defender đã dọn dẹp sạch sẽ
+logisim-win-2.7.1 đã được đá ra khỏi dropbox của bạn
+Đề nghị không up file exe hay các file chạy lên dropbox nhé :angry:

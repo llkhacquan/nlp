@@ -1,0 +1,8 @@
+[Quỹ lớp -Đoàn phí -Hội phí](Sơn nhờ thông báo hộ)
+1.Theo như thông báo kì nầy chúng ta bắt đầu đóng đoàn phí và hội phí cụ thể như sau:
+Đoàn phí : 24k/1sv/1 năm;
+Hội phí :12 k /1 sv/ 1 năm
+2.Quỹ lớp :
+Như tớ thông báo từ đợt trước ,những ai chưa nộp quỹ lớp như trong danh sách thì nhanh chóng nộp ngay nếu không số tiền phạt là hệ số nhân theo tuần .Thế mà đến giờ cấp số đã lên tới 8 rùi mà vẫn còn 3-4 người cho nộp.Lần này là do tớ chủ động đưa ra chưa thông qua lớp nên chưa làm thui nếu làm thật thì có giàu mấy cũng nộp xong chắc cũng thành vô sản gặm mì tôm hết tháng này thui.Yêu cầu các bạn nhanh chóng nộp hoàn tất trong tuần này.Ai bảo đàu tháng thu thì không chịu nộp giờ cuối tháng rùi gồng cổ lên mà gánh nhá 
+3.Triển khai thu đoàn phí và hội phí :
+vì quỹ lớp không đủ tớ(36*28=1008k) cũng bàn với Sơn rùi nên cậu ấy cũng trực tiếp thu vụ này.Tớ chỉ thông báo hộ thui .mọi người cố gắng nộp nhanh giải quyết gọn cho bọn nó còn ôn thi nếu không thì còn khổ dài dài.

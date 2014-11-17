@@ -1,0 +1,1 @@
+sao script của cô lại yêu cầu encoding UTF8 nhỉ. Của mình toàn ANSI có sao ko nhỉ?

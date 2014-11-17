@@ -1,0 +1,9 @@
+Suppose  a disk  driver othas 5000 cyclinder number 0 to 4999.The drive is currently serving a request at cyclinder 143 and the previous request at cylinder 125the queue of pending request in order is 86,1470,913,1774,948,1509,1022,1750,130 .
+Start from currently head position ,what is the total distance that’s disk arm moves to satisfy all the pending request of each following algorithm
+A,FCFS; ( 7081)
+B;SSTF(1745)
+C,Scan(9769)
+D,look;(3319)
+E,Cscan(9813)
+F clook(3363)
+ ai biết làm bài này chỉ cho tớ với tớ lam hệt trong slide va vẫn không ra

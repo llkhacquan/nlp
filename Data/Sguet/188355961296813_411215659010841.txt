@@ -1,0 +1,3 @@
+[Hỏi han] Lap không chịu DẬY sau khi NGỦ
+Tình hình là con Lap của em sau khi sleep thì khi click chuột lại đèn sáng như thường, nhưng màn hình thì tối đen, đợi tầm 15s thì nó khởi động lên như bật máy @@ chương trình đang chạy mất hết. Hibernate thì bình thường @@ 
+Em có gg thì thấy nó pảo chỉnh mấy cái, e cũng làm theo nhưng không hiệu quả, bảo lỗi win nhưng em nghĩ không phải, ai từng bị hay biết về vấn đề này không ạ? :(

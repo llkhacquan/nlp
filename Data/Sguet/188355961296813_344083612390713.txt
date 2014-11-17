@@ -1,0 +1,28 @@
+[Lập trình C]
+Các bác giúp mình cái: Mình làm rồi mà không biết làm sao gỡ lỗi:
+//
+#include<conio.h> 
+#include<stdio.h> 
+#include<string.h> 
+#include<stdlib.h>
+#define XOA "{},"
+void main()
+{
+ char *s,*k;
+ int i,j,p[255];
+ printf("Nhap day so:");// {1,2,3,4,...}
+ gets(s);
+//Chuan hoa day
+i=0;
+k=strtok(s,XOA);
+p[0]=(int atoi(char*k));
+//gan cac so 1,2,3 vao mang p?
+while(p[i-1]!=NULL)
+{ 
+p[i]=int atoi(char*strtok(NULL,XOA));
+ i++;
+  }
+for(j=1;j<i;j++)
+print("%s",p[j]); //In ra 1234 da loai bo cac ky tu {},
+getch();
+}

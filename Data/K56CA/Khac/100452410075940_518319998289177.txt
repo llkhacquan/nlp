@@ -1,0 +1,2 @@
+[Help]
+em cài ubuntu 13.10 trên máy ảo virtual box và vmware thì đều chaỵ không được mượt lắm, ai có cách gì cải thiện hơn không ?

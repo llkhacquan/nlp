@@ -1,0 +1,8 @@
+Có ai bị lỗi này ko?
+test.0:
+m dg lm j` d?
+m dg lm j` d ?
+result.0:
+?m đang làm gì d?
+mày đang làm gì đó?
+(do khi đọc file theo kiểu UTF-8 cái gì đó thêm dấu ? trước chữ m đầu tiên?)

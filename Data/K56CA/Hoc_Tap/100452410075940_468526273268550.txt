@@ -1,0 +1,1 @@
+Phiền mọi người chút, cái hàm memcpy là để copy 2 vùng bộ nhớ. Nhưng mà sao mình copy 1 struct ra 1 struct khác, khi mình thay đổi 1 cái thì cái còn lại cũng bị thay đổi theo?

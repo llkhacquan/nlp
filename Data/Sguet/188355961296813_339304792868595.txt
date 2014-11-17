@@ -1,0 +1,16 @@
+anh chị nào giỏi lập trình C sửa hộ em bài này dc k ạ
+#include <stdio.h> 
+//Tinh tong va hieu cua hai so 
+void computeSumSub(int a, int b, int sum, int sub ){ 
+ sum = a + b; 
+ sub = a - b; 
+} 
+//Chuong trinh chinh 
+int main(){ 
+ int a, b, sum, sub; 
+ printf("a = "); scanf("%d", &a); 
+ printf("b = "); scanf("%d", &b); 
+ computeSumSub(a, b, sum, sub); 
+ printf("sum(%d, %d) = %d\n", a, b, sum); 
+ printf("sub(%d, %d) = %d\n", a, b, sub); 
+}

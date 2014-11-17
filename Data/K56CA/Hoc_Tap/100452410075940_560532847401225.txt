@@ -1,0 +1,12 @@
+Phòng thi: 208. G2, sáng bắt đầu từ 8.30
+
+Dưới đây là các hướng dẫn từ IBM và các file hướng dẫn đăng ký,
+các bạn sinh viên đọc để đăng ký trước khi thi:
+
+Test thi là C2140-833 và C2140-834, mã mới theo hệ Pearson VUE
+(từ năm nay, thi theo hệ thông này)
+
+- Proctor detail guide: để đăng ký, xem phần Candiate
+- Ex6: hướng dẫn quy trình thi
+- Test taker instructions: hướng dẫn lúc thi 
+BBC?

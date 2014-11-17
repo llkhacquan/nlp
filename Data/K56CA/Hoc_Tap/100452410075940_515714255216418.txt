@@ -1,0 +1,5 @@
+[Dropbox] Thống báo: vừa mới update lại 1 số file trong Dropbox và có một số lưu ý với các thím như sau:
+● Học máy: Các Slide kia là Textbook Slides (Slide của tác giả sách Introduction to Machine Learning, 2nd Edition - Ethem Alpaydin) chứ ko phải là Lecture Sides. Lecture Slides (cái Slide thầy chiếu) sẽ xin thầy sau.
+● Mấy file Text thầy Huấn cho mình chuyển hết thành 1 file PDF ở trong folder Textbooks. :3
+● Môn Chuyên đề Công nghệ tên EN là Technology Workshop chứ không phải Technology Topics (Tên này mình lấy từ theo khung chương trình đào tạo).
+Và cuối cùng chúc các thím sử dụng Dropbox an toàn và tiện lợi. 👊

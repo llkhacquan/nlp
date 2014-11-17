@@ -1,0 +1,6 @@
+Anh chị cho e hỏi vừa rồi e có cài win 7 song song vs ubuntu, e chia ổ cứng làm 3 ổ,
+ổ C để lưu trữ 2 hệ điều hành, ỗ D để lưu trữ dữ liệu trên win 7, ỗ F để lưu trữ dữ liệu trên ubuntu, nhưng chẳng may thằng bạn e dùng máy nó vào win 7 và vào ứng dụng chia lại ổ cứng of win 7 disk manager và chia lại ổ F thành ổ data trên win. Giờ thì e ko vào
+dk win nữa, khi e bật máy nó chỉ hiện lên 2 dòng 
+error: unknown filesystem
+grub rescue> 
+anh chị ai biết chỉ e cach' sua voi'?

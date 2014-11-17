@@ -1,0 +1,1 @@
+Bài 3c, xác suất thống kê. Biểu diễn mỗi biến cố sơ cấp trong thí nghiệm này như là hợp của các biến cố sơ cấp từ Bài tập 2.

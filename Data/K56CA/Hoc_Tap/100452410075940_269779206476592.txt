@@ -1,0 +1,3 @@
+Inefficient/humorous sorts
+
+Some algorithms are extremely slow compared to those discussed above, such as the Bogosort O(n\cdot n!) and the Stooge sort O(n^{2.7}).

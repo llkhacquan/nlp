@@ -1,0 +1,6 @@
+B1: Giới hạn lặp, giới hạn bội
+B2: Tìm đạo hàm riêng bậc 1
+B3: Cực trị sử dụng phương pháp nhân tử lagrange
+B4: Chuyển thứ tự tích phân, áp dụng làm 1 tích phân đơn giản.Diện tích hình phẳng
+
+Chúc cả nhà mai thi tốt

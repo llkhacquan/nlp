@@ -1,0 +1,3 @@
+Cập nhật: Cái chương trình của tớ chạy chậm là do không loại bỏ trạng thái trùng lặp trong hàng đợi ưu tiên mà chỉ loại bỏ trạng thái trùng lặp với closed set thôi. Thời gian chạy lúc trước để tìm trạng thái đích là 260 giây, bây giờ rút xuống còn 1 giây (với hàm heuristic là hằng số 0). Vì vậy các anh em không phải lo.
+
+Tuy nhiên để in ra toàn bộ cây tìm kiếm thì vẫn còn rất chậm, khoảng 30 phút :) Chắc là do phải mất thời gian kiểm tra trạng thái trùng lặp

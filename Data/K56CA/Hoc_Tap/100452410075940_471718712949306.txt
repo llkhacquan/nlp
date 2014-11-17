@@ -1,0 +1,1 @@
+[AI assignment] mình mới chạy test của thầy Sơn năm ngoái, và sai cả 3 test đầu @@ : mình ra 8 nhưng thầy ra 4. Trong test còn có cả bảng 8*8 move = 38, 5*5 move = 26 :-SS

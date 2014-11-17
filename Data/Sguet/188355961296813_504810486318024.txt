@@ -1,0 +1,29 @@
+[Hỏi về Pascal ]
+Ace nào biết xin chỉ giáo vs ạ =D
+1.
+program vidu;
+var a,b: real;
+Procedure CTCON(x: real; var y: real)
+Begin
+x := Sqr(x) + 2*x;
+y := y + sqrt(y);
+Writeln(x:6:2);
+Writeln(y:6:2);
+End;
+BEGIN
+a := 3;b:=4; CTCON(a,b);
+Wrileln(a:6:2, b:6:2);
+readln;
+END.
+ket qua cua cac lenh write trong chuong trinh chinh va chuong trinh con. hay giai thich?
+b) kết quả trên sẽ ra sao nếu tiêu đề của chương trình con được thay thành
+Proceduce CTCON(x,y:real);
+c)
+kết quả trên sẽ ra sao nếu tiêu đề của của chương trình con được thay thành
+Proceduce CTCON(var x,y: real);
+
+2.
+Cho ma trận vuông. Hãy lập sơ đồ và viết chương trình bằng ngôn ngữ pascal để:
+Xác định số phần tử nằm trên đường chéo chính mà có giá trị lớn hơn giá trị trung bình cộng của tất cả các phần tử của ma trận;
+Tính tích các giá trị âm của các phần tử nằm tại các đường chéo phụ
+Tính tổng các giá trị dương của các phần tử còn lại của ma trận

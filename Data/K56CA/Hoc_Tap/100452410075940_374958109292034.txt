@@ -1,0 +1,7 @@
+Làm sao để biết một địa chỉ IP ở lớp nào? A, B hay C?
+Câu 7
+Địa chỉ  172.16.3.63 là địa chỉ
+A. Là địa chỉ lớp A
+B.  Là địa chỉ lớp B 
+C.  Là địa chỉ lớp C 
+D. Là địa chỉ lớp D

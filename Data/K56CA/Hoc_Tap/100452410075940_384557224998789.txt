@@ -1,0 +1,1 @@
+ai giải thích hộ cái Finite state Machines. Nhìn vào cái example của nó chẳng hiểu gì cả.

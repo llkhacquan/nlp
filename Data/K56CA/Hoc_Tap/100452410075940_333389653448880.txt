@@ -1,0 +1,9 @@
+Mọi người cho mình hỏi tí về 1 câu trắc nghiệm trong slide nguyên lí HĐH nhé:
+What is incorrect about the main purposes of Operating Systems
+A. resource allocator (manages all resources forrequests/applications)
+
+B. control program (controls execution ofprograms to prevent errors and improper use of the computer
+
+C. database management (database management system)
+
+D. provide system calls (API) for programming

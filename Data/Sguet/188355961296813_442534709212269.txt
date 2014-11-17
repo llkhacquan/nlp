@@ -1,0 +1,1 @@
+[HỎI HAN] mọi người cho em hỏi là làm sao để chạy được C/C++ trên ubuntu ạ.

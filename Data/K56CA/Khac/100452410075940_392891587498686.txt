@@ -1,0 +1,1 @@
+Vậy là mình đã viết xong chtr chơi cờ caro qua mạng. Mọi người có thể vào Dropbox/K56CA/Misc/CaroClient chạy file Client.exe, sau đó connect và chiến. Mình đã fix một cơ số lỗi ở phiên bản trước. Hy vọng lần này sẽ ít lỗi hơn. Nếu nó chạy ổn định thì tối nào mình cũng mở server, ai cảm thấy buồn buồn thì vào làm vài game caro giết thời gian :D

@@ -1,0 +1,7 @@
+Q. 135 On a sequence diagram, what is used to represent a specific subsystem?
+A. an interface that the subsystem realizes
+B. a subsystem proxy
+C. a subsystem component
+D. a subsystem class
+
+Đáp án ghi là D, phải là C chứ nhỉ

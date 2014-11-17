@@ -1,0 +1,1 @@
+anh em ơi cho mình hỏi cái: muốn ghi ra file trong assigment thì dùng hàm gì?

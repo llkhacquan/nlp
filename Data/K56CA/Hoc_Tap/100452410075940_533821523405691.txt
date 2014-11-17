@@ -1,0 +1,1 @@
+Trong ví dụ về perceptron tại sao w0 lại k đổi, e khác 0 thì w0 phải thay đổi dẫn đến hardlim cũng đổi chứ?

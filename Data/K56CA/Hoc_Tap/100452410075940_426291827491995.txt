@@ -1,0 +1,9 @@
+1.14 a. Show that if M is a DFA that recognizes language B, swapping the accept
+and nonaccept states in M yields a new DFA recognizing the complement of
+B. Conclude that the class of regular languages is closed under complement.
+b. Show by giving an example that if M is an NFA that recognizes language
+C, swapping the accept and nonaccept states in M doesn’t necessarily yield
+a new NFA that recognizes the complement of C. Is the class of languages
+recognized by NFAs closed under complement? Explain your answer.
+
+--> Bài này làm thế nào anh em nhỉ?

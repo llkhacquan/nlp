@@ -1,0 +1,5 @@
+Hi cả nhà, vụ Mobile Challenge Robot của tớ với Trung Anh đáng lẽ vào 19/10 này bị hoãn lại do Robot bị gãy chân :v. Lịch thi chính thức là vào sáng ngày 23/11. Tức là còn hơn 40 ngày nữa. Nhưng bên FPT có email cho tớ báo là danh sách cổ động viên đi xe phải gửi trước 18/10. Thực ra phần info không quá quan trọng, họ cũng chỉ muốn chốt người. Nhưng anh chị em nào đi cổ vũ cho tớ thì phiền ghi lại Họ tên, số điện thoại, email để bên FPT chủ động nhắc về lịch thi.
+Mẫu:
+Họ tên:
+Số điện thoại:
+Email:

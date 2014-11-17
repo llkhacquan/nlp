@@ -1,0 +1,5 @@
+[DIP] Slide 4 trang 44 Hadamard transform.
+Thầy viết: Đây là 1 trường hợp đơn giản của DCT.
+Và lúc đấy cái ma trận chyển đổi từ miền không gian sang miền tần số (cosin) đc cho như công thức như trong slide.
+
+Nhưng khi dùng matlab tính thì lại đc 2 kết quả khác nhau như thế này là sao mấy thím????

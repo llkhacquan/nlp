@@ -1,0 +1,4 @@
+An automobile tire is pumped up to a gauge pressure of 2.0×10^5
+Pa when the temperature is 27◦C . What is its gauge pressure after the car has been running on a hot day so that the tire temperature is 77◦C ? Assume that the volume remainsfixed and take atmospheric pressure to be 1.013×10^5 Pa.
+
+Câu này giải quyết thế nào các bác nhỉ? Đáp án la 1,6 E-5 nhá!

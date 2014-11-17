@@ -1,0 +1,2 @@
+Ai biết làm giúp mình vs:
+Chuyển từ hệ 16 sang hệ nhị phân. AXY, ZB. trong đó X là ngày sinh, Y là tháng, Z là năm , ví dụ như của t là A2107,94B

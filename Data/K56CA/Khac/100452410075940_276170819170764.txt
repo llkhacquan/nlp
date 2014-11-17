@@ -1,0 +1,3 @@
+có anh nào làm logisim bị thế này không :
+1. làm sửa lung tung, thử lằng nhằng, kết quả đúng hết rồi save lại, tắt đi, open đúng file đấy, tự dưng xuất hiện mấy dây đỏ lòm :((
+2. chọn một mạch (đã test ) , ctrl+c, mở 1 file mới, ctrl+v, dịch chuyển imput ( cụ thể là chỉ kéo sang phải ) thì lỗi  !? :| :| :| :| :|

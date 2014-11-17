@@ -1,0 +1,4 @@
+các a có ai học vẽ mạch bằng altium k cho e hỏi cái 
+khi e vẽ xong mạch nguyên lý muốn chuyển sang mạch in lại k đk theo trên mạng khi vào Designer sẽ có dòng Update PCB
+Document Mach_in1.PcbDoc (Mach_in1.PcbDoc là tên e lưu) nhưng của e lại k có dòng đấy 
+mong các ac chỉ giùm

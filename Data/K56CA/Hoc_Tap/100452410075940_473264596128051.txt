@@ -1,0 +1,2 @@
+Có một vector các pointer. Muốn kiểm tra tại phần tử thứ i nó có NULL không thì làm thế nào nhỉ?
+Tớ thử xxx->a[i] == NULL không được.

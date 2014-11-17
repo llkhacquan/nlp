@@ -1,0 +1,2 @@
+ai làm Kiến trúc máy tính tuần này rồi cho hỏi chút:
+cái Decd có mỗi 2 chân đầu ra sao trong hình nó vẽ 4 thì vẽ sao thế nào dc?

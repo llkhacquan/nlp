@@ -1,0 +1,1 @@
+slide 7 trang 45, tại sao offset phải trừ 1. nhỡ phần dư là 0 thì sao?

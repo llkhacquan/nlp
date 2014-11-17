@@ -1,0 +1,1 @@
+Thầy Huấn có gửi cho t bài "Invariant Hierarchical Clustering Schemes" cho lớp. T đã up lên folder Machine Learning/Topics. Thầy bảo cần  2 bạn đọc và trình bày lại một cách hệ thống lại (cho thầy cả bản mềm) bài "Invariant Hierarchical Clustering Schemes" ở trang 181.

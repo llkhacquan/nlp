@@ -1,0 +1,2 @@
+vào cái link mà phòng đào tạo gửi http://203.113.130.218:50223/congdaotao/module/monhoc/sinhvien.php# sao t thấy list môn học của t thiếu môn Tối Ưu Hóa
+Vào lại tìm môn tối ưu hóa ms : MAT1100 4 thì lại ko có sinh viên nào là sao nhỉ ?

@@ -1,0 +1,16 @@
+[Thắc mắc UET Game] Dưới đây là 1 số thắc mắc của em về UET Game sắp tới
+-------------------------------------------------------------
+1. Vòng loại có tối đa bao nhiêu đội tham gia ạ? Trong thông báo ko ghi rõ số đội chơi vòng loại mà chỉ thông báo từ vòng loại sẽ chọn ra 16 đội vào vòng trong.
+
+2. Luật thi đấu CS có đoạn "Trận đấu sẽ dừng lại khi một đội có số round chiến thắng CÁCH BIỆT lớn hơn 8 round". Câu này hình như bị thừa từ CÁCH BIỆT. Ví dụ là đội em thằng 9 round rồi thì cách biệt là mấy round cũng như nhau vì đội kia có thắng thì cũng chỉ tối đa được 7 round. Tương tự với đoạn "10 round". 
+
+BTC xem xét lại đoạn này và cải thiện luật cho chặt chẽ hơn.
+
+3. Extraround sẽ thi đấu theo thể thức nào ạ? Cấn phải nêu cụ thể hơn.
+
+4. Luật thi đấu AOE: "01 Giải ép đời : 100.000đ/giải cho game thủ có thời gian kích đời 3 sớm nhất". Ở đây là kích đời 3 hay kích đời LẦN 3 ạ? Cần phải nói rõ vì có thể có bạn có quan niệm khác nhau về ĐỜi 3 trong AOE.
+
+5, Về mẫu đăng ký: mẫu đăng ký sao đơn giản thế ạ, em tưởng phải theo form với đầy đủ các mục như văn bản hành chính?
+-------------------------------------------------------------
+
+Mong được BTC hoặc các anh chị biết rõ về UET giải đáp :)

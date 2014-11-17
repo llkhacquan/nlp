@@ -1,0 +1,1 @@
+Giúp mình với :Trong trang xem phim, với 1 thể loại (  hành động chẳng hạn ) thì sẽ có nhiều trang phim về thể loại đó ( 30 trang chẳng hạn ) làm thể nào để lấy thông tin phim của 30 trang đó mà không cần thêm đường link của 30 trang đó ( nghĩa là ko làm thủ công với từng trang 1)?

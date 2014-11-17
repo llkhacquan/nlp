@@ -1,0 +1,2 @@
+Các bạn cho mình hỏi chút xíu: m đang làm việc vs con PIC16F877A để làm mấy thứ linh tinh, (1) nó có 2 ngõ vào analog là AN0 và AN1, làm cách nào để có thể chọn đọc lập từng ngõ vào khi tác động vào chân điều khiển (mình dùng phím bấm ở chân 15).
+(2) Có để đào tạo để cho con PIC này cho lối ra analog ko nhỉ? :)

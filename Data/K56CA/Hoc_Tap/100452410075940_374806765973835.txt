@@ -1,0 +1,8 @@
+Câu 5
+  
+Kí hiệu ≡ được hiểu là đồng nhất, nghĩa là bằng nhau trong mọi trường hợp; x → y là phép toán logic kéo theo. Khẳng định nào trong 4 khẳng định sau là đúng :
+  
+A. x → y ≡ - x ∧ y
+B. x → y ≡ - y ∨ x
+C. x → y ≡ - y ∧ x
+D. x → y ≡ - x∨ y

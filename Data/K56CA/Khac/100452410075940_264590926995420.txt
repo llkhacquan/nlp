@@ -1,0 +1,6 @@
+các  thím cho hỏi:
+a iu e , dc khong?
+thì đầu ra là:
+anh yêu em, được không?
+hay là:
+anh yêu em , được không ?

@@ -1,0 +1,38 @@
+HỘI THẢO HƯỚNG NGHIỆP TESTER CHO SINH VIÊN
+
+Các bạn sinh viên thân mến!
+
+Hiện nay công nghệ thông tin đã và đang phát phát triển mạnh mẽ ở Việt Nam. Với tốc độ phát triển nhanh chóng, nghành IT đã và đang khẳng định vị thế, là một trong những nghành “ HOT”.
+Nghành “ Kiểm thử phần mềm” đã có mặt ở Việt Nam cách đây không lâu, nhưng đã và đang thu hút được rất nhiều các bạn sinh viên CNTT và các nghành nghề khác như: Điện tử viễn thông, các nghành kinh tế…Đặc biệt là các bạn nữ.
+Theo thống kê hiện nay, các dự án phần mềm trên thế giới thì trung bình cứ 3 lập trình viên thì có một kiểm thử phần mềm. Tỉ lệ này ở Việt Nam đang là 5:1.Việt Nam được dự báo sẽ trở thành một nước mạnh về CNTT, trong đó gia công phần mềm chiếm tỉ trọng lớn, do đó nhu cầu về nhân lực Tester cũng được tăng theo. Tại hội nghị quốc tế về kiểm thử phần mềm tự động (12/2011, TP HCM), các báo cáo cho thấy: Với đà tăng trưởng mạnh mẽ của ngành gia công phần mềm, trong vài năm tới, Việt Nam thiếu khoảng 10.000 Tester.
+Một thực tế hiên nay cho thấy: Tỉ lệ sinh viên ra trường hàng năm với số lượng rất lớn nhưng tỉ lệ thất nghiệp rất nhiều, trong khi đó nguồn nhân lực của ngành “ Kiểm thử phần mềm – Tester” thì lại đang thiếu , do sinh viên không đáp ứng được yêu cầu của công việc này.
+Hội thảo hướng nghiệp Tester cho sinh viên sẽ giúp các bạn sinh viên:
+- Hiểu rõ về ngành “ Kiểm thử phần mềm – Tester”
+- Định hướng được nghề nghiệp, cơ hội và khả năng phát triển của nghành Tester trong tương lai.
+- Những kiến thức, kỹ năng cần có của sinh viên để trở thành một Tester giỏi và chuyên nghiệp
+- Cách học lập trình như thế nào?để có kiến thức căn bản khi trở thành một Tester.
+ĐẶC BIỆT: Đến tham dự hội thảo, các bạn sinh viên còn có cơ hội nhận được những suất học bổng từ CÔNG TY TNHH TESTER VIỆT, khi tham gia trả lời các câu hỏi của buổi hội thảo.
+- Chương trình sẽ tặng 01 suất học bổng toàn phần từ công ty TesterViet cho bạn sinh viên trả lời PV tuyển dụng hay nhất.
+- Ngoài ra chương trình có 05 phần quà gửi đến các bạn sinh viên khi tham gia trả lời phỏng vấn.
+- Và các bạn sẽ có cơ hội bôc thăm may mắn để được tặng quà tặng của chương trình.
+Hội thảo có sự tham gia của chị HÀ THU TRANG:
+- CEO Công ty TNHH Tester Việt
+- Trưởng phòng chất lượng công ty cổ phần viễn thông Tinh Vân
+- Nhân viên xuất sắc toàn Tinh Vân Group
+- Trên 10 năm kinh nghiệm làm Test leader, QA, PM các dự án lớn.
+- Có chứng chỉ sư phạm bậc 1.
+Thời gian: 14h – 17h , Thứ 4, Ngày 14/11/2012
+Địa điểm: Đại học Công Nghiệp Hà Nội
+Đối tượng tham dự: Tất cả các bạn sinh viên và mọi người yêu thích ngành kiểm thử phần mềm hoặc có mong muốn tìm hiểu về kiểm thử phần mềm ( tester), sinh viên khoa CNTT, …
+Link đk trực tuyến:
+https://docs.google.com/spreadsheet/viewform?formkey=dEJXUTBxSVp2ckFyaVFNVmduZ1pBb0E6MQ 
+Liên hệ: 
+Ms. Ngô Thị Cúc
+SĐT: 0166.817.2670
+Yahoo: ngocuc_1506
+Email: banmaixanh6216@gmail.com
+(Or) Mr. Vũ Việt Dũng 
+SĐT: 0983. 902.220
+Email: lienhe@testerviet.com.vn
+Hội thảo hoàn toàn free.
+Ps: copy bên một nhóm khác..thấy khá hay...

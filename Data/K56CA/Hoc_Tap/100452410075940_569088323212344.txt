@@ -1,0 +1,3 @@
+[OOAD] Theo như mình hỏi một ô K55CA thì cuối kì OOAD có 2 phần:
+Phần 1: 10 câu trắc nghiệm giống thi IBM
+Phần 2: một câu phân tích thiết kế. Vẽ use case diagram rồi lấy 1 cái use case để phân tích.

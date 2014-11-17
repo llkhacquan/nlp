@@ -1,0 +1,6 @@
+Trong phần đề cương của thầy, slide cuối thầy hỏi 2 câu:
+1. Các loại mã trung gian
+2. Cú pháp điều khiển sinh ra mã 3 địa chỉ
+
+1--> Graph với three address code?
+2--> ?

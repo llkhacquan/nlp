@@ -1,0 +1,1 @@
+mọi người cho hỏi cái asg đấy cô bảo  -encode=UTF-8 khi dịch file chứa tiếng Việt mà sao mình dịch vẫn lỗi nhỉ help me!!!

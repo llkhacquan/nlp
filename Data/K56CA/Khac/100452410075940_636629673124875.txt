@@ -1,0 +1,1 @@
+[Help] M mới mua máy nhưng máy hiện gặp vấn đề với nhiệt độ của sensor. M dùng 2 phần mềm test nhiệt máy tính và đưa ra 2 kết quả như sau. Ai đã dùng HWMonitor chưa? cho m hỏi cái PHCZ là gì mà 127 độ C. Liệu có nên đi đổi lại máy ko :( ( Máy mình HP probook 4740s)

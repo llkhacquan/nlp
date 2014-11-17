@@ -1,0 +1,9 @@
+Câu 2
+Câu nào đúng nhất trong định nghĩa một ngôn ngữ lập trình nói chung
+A. Là ngôn ngữ cho phép thể hiện các dữ liệu trong bài toán mà các chương trình sẽ phải xử lý
+B.  Là ngôn ngữ dưới dạng nhị phân để máy tính có thực hiện trực tiếp
+C.  Là ngôn ngữ diễn đạt giải thuật để có thể giao cho máy tính thực hiện
+D.
+Là ngôn ngữ có tên là "ngôn ngữ thuật toán" hay còn gọi là "ngôn ngữ bậc cao" gần vớingôn ngữ 
+toán học cho phép mô tả cách giải quyết vấn đề độc lập với máy tính
+E.  Là hợp ngữ

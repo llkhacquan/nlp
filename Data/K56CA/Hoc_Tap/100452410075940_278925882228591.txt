@@ -1,0 +1,5 @@
+các thím xem hộ nhé 
+det(A.B)=det((AB)T)=det(BT.AT)=detBT.detAT=detB.detA=det(BA)
+=>det(AB)=det(BA)
+sai ở đâu
+với BT la ma trận chuyển vị của B...

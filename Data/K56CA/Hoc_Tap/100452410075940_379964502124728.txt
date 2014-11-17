@@ -1,0 +1,16 @@
+Suppose a system has 
+4GB (2^32
+bytes) RAM 
+frame size is 1KB
+What is the data type of the frame columnin 
+page table?
+A. int (32 bits)
+B. long (64 bits)
+C. float (32 bits)
+D. double (64 bits)
+What is the maximum sizeof a page table?
+A. 16 MB
+B. 2MB
+C. 4 MB
+D. 8MB
+2 câu này tính thế nào nhỉ :D

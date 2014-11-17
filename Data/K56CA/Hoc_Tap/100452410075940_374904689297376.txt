@@ -1,0 +1,8 @@
+Mục đích của xử lý theo lô là
+A. Để người sử dụng có thể gửi cả một gói công việc một lần để đỡ tốn thời gian
+B.
+Để liên kết được các công việc với nhau , công việc truớc có thể để lại dữ liệu và trạng thái xử lý 
+cho công việc sau tiếp tục thực hiện
+C.  Để giảm bớt thời gian chết khi phải lao động thủ công để chuyển tiếp công việc
+D. Cả A và B 
+E.  Cả A và C

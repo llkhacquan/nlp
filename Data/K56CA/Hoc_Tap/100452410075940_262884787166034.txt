@@ -1,0 +1,3 @@
+vãi cả code c++
+for(int i= f145;i<=f17;i++)
+cout<<"Mất niềm tin vào tình yêu";

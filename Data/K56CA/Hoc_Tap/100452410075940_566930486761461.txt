@@ -1,0 +1,3 @@
+[Học máy] Trang 8
+Cách xử lý mẫu huấn luyện khi có giá trị thuộc tính bị mất để nâng cao hiệu quả ID3: 2 chiến lược...
+Cho ví dụ của 2 cái này cụ thể với :3

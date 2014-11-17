@@ -1,0 +1,17 @@
+Câu 16   
+
+ 
+
+Cho một số x và một dãy l các số a1, a2…ai… ak được xếp theo chiều tăng dần. Ta thi hành thụât toán xác định x có ở trong dãy không và nếu có thì ở vị trí nào
+Bước 1: cho  m=1, i= 1 và n=k
+Bước 2: Lấy  i =  [(m+n)/2]   (hàm phần nguyên) sau đó kiểm tra x= ai, nếu đúng chuyển tới bước 5,  nếu sai thực hiện  bước 3
+Bước 3: Nếu x < ai, thay m bằng i và quay lại bước 2, nếu không thực hiện bước 4
+Bước 4: Thay n bằng  i và quay lại bước 2
+Bước 5: Tuyên bố x là phần tử thứ i
+Khẳng định nào sai
+ 
+
+A. Thuật toán này không xác định được trường hợp khi x không có mặt trong dãy
+B. Thuật toán luôn luôn dừng
+C. Cho dù có giả thíêt chắc chắn x có mặt trong dãy nhưng nếu xếp dãy số theo thứ tự giảm dần thì thuật toán cũng sai
+D. Thuật toán sẽ không có giá trị nếu dãy ai không được sắp theo thứ tự tăng dần

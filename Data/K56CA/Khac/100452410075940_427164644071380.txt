@@ -1,0 +1,1 @@
+[Hỏi] Cho hỏi chú là có phân vùng được trên USB ko? ví dụ như có usb 8G muốn phân ra  vùng để boot,  phần để copy linh tinh?

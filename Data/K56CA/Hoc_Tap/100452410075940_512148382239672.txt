@@ -1,0 +1,5 @@
+Tớ có add file Group vào môn Chuyên đề Công nghệ, hy vọng các bạn đã lập nhóm điền tên nhóm và dự án của nhóm mình vào để đỡ trùng nhau.
+Nhắc lại các bài tập nhóm kì này:
+- Học máy: Một mình, trình bày lại bài báo khoa học từ năm 2011 trở lại đây về học máy.
+- Chuyên đề Công nghệ + OOAD: Nhóm 3,4 người làm dự án bất kì.
+- Xử lí ảnh với Đồ họa máy tính thì tớ ko nhớ rõ môn nào phải làm 2 người một nhóm ý.

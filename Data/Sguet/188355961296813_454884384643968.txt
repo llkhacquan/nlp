@@ -1,0 +1,2 @@
+[hỏi về c#]
+anh chị cho e hỏi trường mình thầy nào đang nghiên cứu về c# hay a chị nào biết về dùng c# làm ứng dụng cho windowsphone không a. e mới bắt đầu vào việc làm ứng dụng cho windowsphone nhưng chưa biết nên bắt đầu từ đâu,a chị nào có kinh nghiệm có thể chỉ giúp e được không a

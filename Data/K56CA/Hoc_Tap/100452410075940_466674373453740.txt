@@ -1,0 +1,3 @@
+ai giải thích hộ phát :3
+The first line contains n and a number k representing the heuristics
+hk separated by a space

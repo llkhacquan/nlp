@@ -1,0 +1,4 @@
+Nghe nói lớp Kiến Trúc Máy Tính INT 2205 4 là lớp học riêng của SV CLC đúng không ạ? Và nếu SV thường đký vào lớp này thì khi vào học sẽ bị gạch tên, yêu cầu chuyển lớp khác nhỉ?
+Nếu thông tin này đúng, hi vọng các SV không phải CLC có thể out ra, đký lớp khác để SV CLC đỡ phải làm đơn.
+Ai biết về việc này chỉ giáo em phát ạ.
+Chân thành cảm ơn :)

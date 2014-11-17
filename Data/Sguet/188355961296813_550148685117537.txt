@@ -1,0 +1,9 @@
+[Giới thiệu]
+Chào các bạn :D
+Bọn mình là nhóm sinh viên K57CA. Bọn mình mới học web, nên nảy ra ý định thành lập website:
+http://bluebee-uet.com/
+Mục đích là để quản lý chương trình đào tạo, chia sẻ đề thi tài liệu, thông tin giáo viên dễ dàng hơn cho sinh viên UET. Hy vọng các bạn ghé thăm và ủng hộ bọn mình :D
+Đây là page của web, các bạn có thể xem :D
+https://www.facebook.com/hotrohoctapUET
+Cám ơn các bạn :D
+PS: Bọn mình đang cần thêm nhân lực phát triển web :D. Bạn nào có hứng thú lập trình web hay mobile có thể email vào bluebee.uet@gmail.com để cùng hợp tác nhé :D

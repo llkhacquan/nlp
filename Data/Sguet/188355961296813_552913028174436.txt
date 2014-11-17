@@ -1,0 +1,6 @@
+[ hỏi Cài win cho máy tính mới mua chạy ubuntu] ???
+Ace nào biết cho mình hỏi máy mình mới mua.
+Chỉ có 1 ổ dùng ubuntu,thì bây giờ mình phải format định dạng thế nào để cài win đc như thường?
+( mình cũng đã thử qua hiren boot partition, format trong ubuntu hay command line lúc cài win 8... Mà vẫn ko đc ???)
+.
+Thanks.!!!

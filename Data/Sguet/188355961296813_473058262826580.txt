@@ -1,0 +1,9 @@
+[Hỏi han] [WIFI]
+Em gặp phải hai vấn đề với wifi như sau, mong mọi người giúp đỡ :D (em đang dùng win8, hp probook 450 G1):
+1. Limited
+      Cái này chắc là khá quen thuộc với nhiều người. Đang dùng tự nhiên wifi bị limited. Disconnect và connect lại là ok. Em đã thử khắc phục bằng tất cả cách cách em google được nhưng mà đều không hiệu quả. Nói chung là em đã an phận với cái lỗi này rồi, mỗi lần bị limited đều chịu khó disconnect và connect lại.
+
+2. Cái này em cũng ko biết phải gọi là gì @@
+      Em đang dùng wifi bình thường và tự nhiên bị dis. Khi ấn vào biểu tượng wifi thì không thể hiện ra danh sách wifi, airplane mode. Vào network connection thì không thể enable wifi adapter. Troubleshoot không khắc phục được gì ạ. Restart thì máy lại nhận wifi bình thường, nhưng chỉ được một lúc thì hiện tượng trên lại lặp lại. Em đã update tất cả driver network mới nhất nhưng không hiệu quả. Hai con Dell win 7 khác vẫn bắt wifi ok.
+
+Muốn tham khảo ý kiến các tiền bối trước khi vác em Lap đi bảo hành. Mong mọi người giúp đỡ ạ :D

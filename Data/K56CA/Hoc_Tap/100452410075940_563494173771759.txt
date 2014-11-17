@@ -1,0 +1,2 @@
+Phát hiện ra gián của Cohen-Sutherland mà éo biết làm gì.
+Chả nhẽ lại phán 1 câu: Thuật toán sai. :(

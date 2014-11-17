@@ -1,0 +1,10 @@
+Các lỗi asg01 có thể gặp.
+Post lên đây cho các bạn đỡ mất thời gian lần mò.
+01: Lỗi direction. Sai địa chỉ bộ test asg01/src/test -> asg01/tests.
+Hoặc lúc gọi loadRuleBase thì tham số là tests\\rules.*, tức là có cả đường dẫn tests ở trước. Trong khi đó 1 số người (như mình) chỉ để tham số là rules.* (tức fileName).
+Lỗi này dính phát chết luôn. :(
+02: Khi gọi loadRuleBase lần >=2, toàn bộ rule cũ bị xóa.
+Nói cách khác là với cùng 1 đối tượng SpellChecker, khi gọi loadRuleBase lần 2 thực chất là append rule mới lên cái rule cũ.
+03. Ko replate từ ở đầu dòng và cuối dòng.
+Điển hình là test thứ 8 "asg r.i.p 4ever plz\n29 is 'a' g9....", các từ plz, 29 ko được sửa.
+Bạn nào còn có lỗi nào thì up hết lên đây cho anh em tham khảo...

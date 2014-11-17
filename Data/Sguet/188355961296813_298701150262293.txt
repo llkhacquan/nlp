@@ -1,0 +1,4 @@
+Hỏi về công nghệ, mình đọc được cái này:
+"Một bộ phim ở độ phân giải 1080p có thể chứa gọn trong một đĩa Blu-ray 50GB nhưng một bộ phim có thời lượng trung bình ở độ phân giải 4K sẽ cần tới dung lượng lưu trữ tầm terabyte. Cụ thể hơn một bộ phim thời lượng 120 phút quay với tốc độ 30 hình/giây sẽ có dung lượng xấp xỉ 55TB ở độ phân giải Ultra HDkhông nén"
+.
+Tại sao 4K về điểm ảnh chỉ gấp 4 lần Full HD mà sao dung lượng lại tăng lên nhiều vậy?

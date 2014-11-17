@@ -1,0 +1,1 @@
+có ai biết cái method toString() của Board. Có tác dụng gì ko? Tắt đi máy ko báo lỗi. Mà mở nó thì bị compiler báo lỗi

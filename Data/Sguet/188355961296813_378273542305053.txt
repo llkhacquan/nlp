@@ -1,0 +1,2 @@
+Tớ cài lại win và bị lỗi này. Ai biết cách sửa ko cứu tớ vs
+Error: "We couldn't create a new partition or locate an existing one. For more information, see the Setup log files."

@@ -1,0 +1,6 @@
+[Help] Mình hôm nay mình xóa mail trong ctmail thì gặp lỗi này:
+THÔNG BÁO LỖI:
+LỖI: Không thể hoàn thành truy vấn.
+Truy vấn: COPY 643:646 "Trash"
+Nguyên nhân: Not enough disk space
+Có bạn nào từng gặp lỗi này và biết cách sửa không?

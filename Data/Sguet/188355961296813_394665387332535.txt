@@ -1,0 +1,1 @@
+[GIúp đỡ] Có ai còn project viết về quản lí sách trong thư viên (ngôn ngữ C++) bao gồm chức năng: nhập thông tin sách, đưa thông tin sách ra màn hình, đăng kí bạn đọc mới, mượn trả sách. Có thể gửi cho mình được không, cám ơn mọi người nhiều nhé

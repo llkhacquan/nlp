@@ -1,0 +1,1 @@
+Hứa Viết Ngọc hỏi chút, có cách nào code được openGL trên notepad++ mà chạy được luôn không?

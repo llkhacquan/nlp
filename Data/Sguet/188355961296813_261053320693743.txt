@@ -1,0 +1,24 @@
+Lời chúc UET-ers :))
+ C++
+ while(1) {
+ cout << "HAPPY NEW YEAR! ♥" << endl;
+ }
+
+ C
+
+ int i = 1;
+ for(i = 1; i > 0; i++) {
+ printf("HAPPY NEW YEAR! ♥\n");
+ }
+
+ JAVA
+
+ do {
+ System.out.println("HAPPY NEW YEAR! ♥");
+ }while(1);
+
+ HTML + CSS
+
+ <p style="text-color: red; text-align: center;">
+ <strong> HAPPY NEW YEAR! </strong> ♥
+ </p>

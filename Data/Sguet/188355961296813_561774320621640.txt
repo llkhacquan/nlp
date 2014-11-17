@@ -1,0 +1,6 @@
+[Mọi ng cho em hỏi chút với ạ]
+Chế độ ổ cứng của em ban đầu là MBR.
+Em cài win 8.1. Sau đấy em chia ổ để cài thêm Ubuntu thì máy bị chậm.
+Sau đó em gỡ ubuntu đi thì máy vẫn bị chậm. :( 
+Em gỡ win, format hết ổ đĩa. vẫn bị chậm. Ko biết trong quá trình em đụng chạm BIOS trong lúc cài có khả năng nào làm máy chậm không ạ?
+Em cảm ơn

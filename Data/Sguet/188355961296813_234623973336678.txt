@@ -1,0 +1,4 @@
+anh chị làm giúp em bài này với !!!
+Một ngăn kéo bàn có 6 bút mực, hai chiếc trong đó bị khô.
+a) Các bút được lấy một cách ngẫu nhiên từng chiếc một cho đến khi lấy được hai bút tốt. Kết quả của dãy kiểm tra được ghi lại. Không gian mẫu là gì? Tìm xác suất của các biến cố sơ cấp của không gian mẫu đó.
+b) Giả sử rằng số các bút, mà không phải dãy, đưa ra kiểm tra được ghi lại. Hãy mô tả không gian mẫu. Tính xác suất của các biến cố sơ cấp của không gian mẫu này.

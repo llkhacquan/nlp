@@ -1,0 +1,1 @@
+[hỏi han] cho m hỏi là khi cài lại win. có cách nào giữ lại các ứng dụng đã cài ở Program File mà không tạo ra thư mục windows.old không ạ.

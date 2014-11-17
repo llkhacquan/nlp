@@ -1,0 +1,4 @@
+[Tuyển dụng] Hiện nay nhóm của m tại FPT Software cần tuyển 1 người.
+Nội dung: Nghiên cứu về object tracking, sử dụng OpenCV, liên quan nhiều đến xử lý ảnh và thị giác máy.
+
+Vì đang cần người gấp nên nếu bạn nào muốn vào làm hãy gửi CV cho Khắc Quân: ll.khac.quan@gmail.com

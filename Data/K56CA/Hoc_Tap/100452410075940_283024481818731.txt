@@ -1,0 +1,1 @@
+Mọi người cho hỏi O(m+n) có nghĩa là gì........trong cái độ phức tap của thuật toán ấy?

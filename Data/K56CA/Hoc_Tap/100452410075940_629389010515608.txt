@@ -1,0 +1,6 @@
+[Edit bài tập xử lý ngôn ngữ tông tự nhiên]
+Tớ có xem qua mấy bài.
+
+Thầy có dặn là  xuống dòng sau mỗi câu  mà mỗi câu chỉ một dòng thôi.Hết một cặp câu tiếng anh tiếng việt phải để một dòng trống.Riêng câu ghi đề mục tình huống có thêm định dạng %.Lấy bài của Công làm chuẩn các cậu  dựa theo đấy để sửa cho nội dung được thống nhất.
+
+Các cậu tự check lại phần bài của mình nhé.Hạn vẫn như cũ.

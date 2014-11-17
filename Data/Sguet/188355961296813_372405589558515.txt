@@ -1,0 +1,5 @@
+[HỎI ĐÁP] Không vào được DLC boot usb
+Máy mình vừa dài win 8.1 bằng usb song. Hôm nay mình định dùng cái usb đã cài DLC để vào win mini kiếm tra mấy cái linh tinh.
+Luk khởi động mình đã trọn boot vào usb như thường ngày nhưng hôm nay nó lại hiện cái *_* rồi cư nháy mãi vẫy không có hiện tượng gì thêm...
+Mn cho mình hỏi như thế là như nào
+P/s: Cái usb đó vẫn boot vào máy khác bt.

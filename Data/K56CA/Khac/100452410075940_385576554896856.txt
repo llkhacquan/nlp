@@ -1,0 +1,1 @@
+Ai post các file có thể edit vào dropbox như pptx, docx, thì set read only nhé. Đỡ tự sửa.

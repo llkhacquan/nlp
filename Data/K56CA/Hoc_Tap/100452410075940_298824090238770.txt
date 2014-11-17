@@ -1,0 +1,1 @@
+Trong đề mẫu ktmt thầy gửi có 2 câu tính kích thước bộ nhớ cache thì công thức tính thế nào vậy mọi người?

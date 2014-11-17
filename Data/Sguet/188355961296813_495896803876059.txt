@@ -1,0 +1,1 @@
+Có ai biết build/sign apk như system app để xài được các quyền system của Android 4.4 Kitkat ví dụ như android.permission.DEVICE_POWER vui lòng chỉ cho em/tớ/anh với ah :(. Em/ tớ/ anh cảm ơn nhiều!!!!!

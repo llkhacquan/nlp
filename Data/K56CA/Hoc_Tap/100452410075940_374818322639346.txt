@@ -1,0 +1,7 @@
+Khi biểu diễn giá trị logic , có những ý kiến sau, ý kiến nào kém thuyết phục hơn cả  
+ 
+
+A. 1 bít
+B. 1 byte
+C. Tuỳ theo các hệ thống dùng từ máy dài bao nhiêu 8 bít, 16 bít, 32 bít
+D. Tuỳ theo các hệ thống cụ thể nhưng nói chung là dùng một byte

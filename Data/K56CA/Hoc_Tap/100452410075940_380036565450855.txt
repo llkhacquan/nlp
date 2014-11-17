@@ -1,0 +1,1 @@
+Anh nào cho biết cái banker với cái deadlock detection khác gì nhau cái? Nếu không khác thì tại sao unsafe state với deadlock lại khác nhau?

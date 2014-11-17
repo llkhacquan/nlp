@@ -1,0 +1,1 @@
+Cho em hỏi là trong Phương thức xét tuyển của chương trình đạt chuẩn quốc tế có mục kết quả tuyển sinh đại học 38 điểm. em đọc chỉ thấy tuyển thẳng được miễn điểm thi đánh giá năng lực, còn cái kết quả tuyển sinh đại học này tính sao ạ ?

@@ -1,0 +1,1 @@
+[Xử lý ảnh] Bài tập số 3 trong đề thi, chuyển đổi I vào miền tần số sử dụng matrix Hadarmard làm như thế nào? Tìm mãi không thấy ở đâu?

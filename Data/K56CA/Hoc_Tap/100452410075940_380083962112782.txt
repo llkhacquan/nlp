@@ -1,0 +1,4 @@
+DM có mấy hôm mất mạng, nay đồng bộ lại mà loạn hết cả lên.
+Cái slide thầy Phương lần trước thì kêu nhiều file.
+Lần này t nén vào thành 1 file Iso thì lại giải nén ra. DKM ko biết mount ra ổ đĩa ảo ak,  ko thì giải nén ra chỗ khác.
+Còn mấy cái slide bác nào thích chỉnh thì copy ra chỗ khác. Thích làm gì thì làm. :X

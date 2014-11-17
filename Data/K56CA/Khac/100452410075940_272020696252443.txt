@@ -1,0 +1,6 @@
+ai có bản iso Ubuntu cho mượn cái, cả usb lun @@@, vừa phá xong cái máy
+Rikudou Sennin hnay vừa chỉ ông cái vụ Erorr Grub partition thì tối về mình dính :))
+Ham hố cái win 8, thế là tách 1 tí ở ổ c, 1 tí ổ D để gộp lại dc 30GB làm ổ cài win :))
+tách xong ko gộp dc:)) 1 thằng private 1 thằng logical :))
+lại còn lỗi ổ ->format :)) mất 60Gb data
+Thiệt hại vãi @@@@

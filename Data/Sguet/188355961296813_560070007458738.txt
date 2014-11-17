@@ -1,0 +1,1 @@
+Mọi ng cho em hỏi với. Tình trạng ổ cứng của em như hình bên dưới, nhưng sao khi vào phần cài đặt installation type nó lại ko xuất hiện free space để cài nhỉ. Em đã thử nhiều bản ubuntu 14.04 và trên 2 cái usb khác nhau kết quả vẫn z

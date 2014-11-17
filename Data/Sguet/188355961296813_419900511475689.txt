@@ -1,0 +1,6 @@
+Anh chi nào đã học qua môn tối ưu hóa có thế làm giúp em bài này đc hok ạ ?, bài này nằm trong đề thi năm ngoái của thầy Phạm Trọng Quát 
+Cho bài toán quy hoạch:
+min f(x) = x^t.Ax + a
+                Ax ≥ 0
+trong đó A là ma trận cấp m*n nửa xác định dương, a là số  thực nào đó.  Chứng minh rằng: 
+bài toán trên có phương án tối ưu.

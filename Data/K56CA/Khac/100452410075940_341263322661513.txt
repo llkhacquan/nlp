@@ -1,0 +1,1 @@
+Ai có python thì chạy hộ cái lệnh này cái range(100000000)

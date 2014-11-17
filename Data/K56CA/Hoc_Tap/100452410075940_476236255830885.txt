@@ -1,0 +1,1 @@
+cho hỏi assigment có cần phải đúng grenated state không nhỉ, hay chỉ cần optimal moves là đủ.

@@ -1,0 +1,5 @@
+[Hỏi han] Mọi người cho em hỏi hàm insert có dấu * nghĩa là gì ạ?
+struct node *insert(struct node *header, int d) 
+{
+   blabla....
+}

@@ -1,0 +1,1 @@
+[prolog] thầy có đánh đố học sinh bằng mấy cái BFS, DFS không nhở ? :v. Ngồi gõ mãi mới được mấy thao tác cơ bản của list :v

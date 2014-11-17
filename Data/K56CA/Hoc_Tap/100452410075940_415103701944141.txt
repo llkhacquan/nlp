@@ -1,0 +1,1 @@
+Cho mình hỏi cái này: môn an ning mạng của K55CA năm nay theo sổ tay học vụ có mã số là INT3093 nhưng sao trong cái khung chương trình KHMT lại ghi là INT 3307. Vậy thì dk 1 trong 2 cái được ko ??

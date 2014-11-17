@@ -1,0 +1,7 @@
+[ĐKMH] Mọi người cho em hỏi đăng kí môn học mà nó cứ báo lỗi này là thế nào ạ? :(((
+"Cannot roll back Transaction_EnrgisterInsert_0000. No transaction or savepoint of that name was found.
+
+Transaction count after EXECUTE indicates that a COMMIT or ROLLBACK TRANSACTION statement is missing. Previous count = 1, current count = 2.
+
+Uncommittable transaction is detected at the end of the batch. The transaction is rolled back."
+Em cảm ơn mọi người nhiều.

@@ -1,0 +1,2 @@
+"Xây dựng ba tập dữ liệu có phân bố chuẩn hai chiều cùng phương sai với tâm khác nhau trong R^2, mỗi tập có 40 đối tượng "
+Có ai biết cách làm cái này ko

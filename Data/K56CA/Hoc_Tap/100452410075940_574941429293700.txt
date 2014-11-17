@@ -1,0 +1,4 @@
+[DIP] Khi chuyển ảnh từ miền không gian sang miền tần số của các hàm mũ phức, tức là nó sẽ gồm 2 phần là phần thực và phần ảo.
+Vậy cho mình hỏi là mấy cái hình miền tần số trong slide 4 (4. Digital Image Processing - Filtering in Frequency.pdf) biểu diễn giá trị nào của miền tần số vậy? Phần thực, phần ảo, magnitude hay phase????
+
+Hoặc đơn giản hơn là nếu đề bài cho 1 cái ảnh (matrix) xong rồi bắt chuyển sang miền tần số? Các thánh tính ntn? :(

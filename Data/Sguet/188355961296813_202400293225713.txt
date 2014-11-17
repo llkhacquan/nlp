@@ -1,0 +1,24 @@
+anh chị nào xem giúp e với ạ.
+#include <stdio.h>
+
+int main()
+{
+enum chu_so{0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+printf("nhap chu so tu 0 den 9.\n");
+switch (chu_so)
+{
+       case 0: printf("so khong");break;
+       case 1: printf("so mot")  ;break;
+       case 2: printf("so hai")  ;break;
+       case 3: printf("so ba")   ;break;
+       case 4: printf("so bon")  ;break;
+       case 5: printf("so nam")  ;break;
+       case 6: printf("so sau")  ;break;
+       case 7: printf("so bay")  ;break;
+       case 8: printf("so tam")  ;break;
+       case 9: printf("so chin") ;break;
+       default:printf("khong co");
+}
+getch();
+return 0;
+}

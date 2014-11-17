@@ -1,0 +1,3 @@
+Mình update lại cái đống Bài giảng (Audio + Slide) Mạng Máy tính của thầy Phương vào 1 file iso rồi nha (Thay vì gần 4000 file con con như lần trước).
+Ai muốn xem mount cái iso ý vào ổ đĩa ảo. Sau đó chạy file scan là đc.
+1 Số máy vẫn chạy ko đc thì tự tìm hiểu đi.

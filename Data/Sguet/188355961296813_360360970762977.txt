@@ -1,0 +1,6 @@
+cho mình hỏi là hệ thống tra cứu đăng ký môn học của trường , có đăng trên ctmail 
+Thấy hôm trước của mình có "Không phù hợp " một môn 
+Mình đã viết đơn hủy lớp môn đấy và chuyển lớp môn học khác (chưa nộp phòng đào tạo)
+Nhưng bây giờ check lại thì môn đấy không còn chữ "không phù hợp " nữa 
+CHẢ HIỂU SAO LUÔN -_-
+Mình có cần lên phòng đào tạo nộp đơn nữa không ?

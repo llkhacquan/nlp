@@ -1,0 +1,8 @@
+Chọn câu trả lời chính xác nhất về chức năng của CPU
+A.  Thực hiện các phép tính số học và logic
+B.  Điều khiển, phối hợp các thiết bị để máy tính thực hiện đúng chương trình đã định
+C.  Điều khiển thiết bị ngoại vi
+D.  Cả A và B
+E.  Cả A và C
+
+đáp án C @@

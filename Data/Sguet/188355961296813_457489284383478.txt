@@ -1,0 +1,5 @@
+[Tùy chọn hệ điều hành khởi động ]
+aceb ai biết cho mình hỏi ?
+mình vừa cài song song hệ điều hành ubuntu vs Win 8.lúc đầu thì vẫn khởi động và dùng bình thường.Nhưng sau đó win 8 mình có vẫn đề và mình format win 8 (ko đả động gì đến phân vùng ubuntu) và cài lại win 7,Sau mình restart lại thì máy vào thẳng win 7 luôn mà ko thấy tùy chọn ubuntu trong tùy chọn khởi động???
+
+Thanks.!

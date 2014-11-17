@@ -1,0 +1,3 @@
+[Hỏi] Chương 8. Kiểm định Giả thiết >> KĐ Giá trị trung bình >> phương sai (sigma^2) chưa biết.
+Trong quyển Slide Lecture\Chuong 8 Kiem dinh gia thiet.pdf thầy viết (như hình dưới). Nhưng mình đọc giáo mấy cái giáo trình trên mạng thì lại là "CĂN BẬC 2 CỦA (n)".
+=> Cái nào đúng?????????????

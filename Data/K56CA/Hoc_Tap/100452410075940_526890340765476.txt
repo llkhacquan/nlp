@@ -1,0 +1,5 @@
+"Mình được thầy Bùi Quang Hưng của phòng Fimo Labs nhờ tìm người cho dự án của thầy ý. Dự án tuy là nghiên cứu nhưng có sự kết hợp với công ty nào đó mình quên chưa hỏi  thế nên có kết quả là sản phẩm. Bạn có thể dùng nghiên cứu này cho NCKH hay khóa luận tốt nghiệp. Dự án này là GIS 3D, giống như google earth có các tòa nhà được mô hình hóa đưới dạng 3D và đưa vào bản đồ. Nếu bạn có kiến thức lập trình nền tảng tốt c c++ java và học cấu trúc dữ liệu giải thuật tốt và bạn tự tin vào khả năng thì bạn có thể join." - via Lile Eon.
+
+P/S: bạn nào chưa nghiên cứu khoa học thấy có hứng thú và tin tưởng vào khả năng của mình thì add nick "https://www.facebook.com/nguoiduathu92" làm quen, hỏi thăm. Thanks
+
+P/S2: Case close!!!! :P
