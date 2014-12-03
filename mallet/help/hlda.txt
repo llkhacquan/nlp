@@ -1,0 +1,43 @@
+Hierarchical LDA with a fixed tree depth.
+--help TRUE|FALSE
+  Print this command line option usage information.  Give argument of TRUE for longer documentation
+  Default is false
+--prefix-code 'JAVA CODE'
+  Java code you want run before any other interpreted code.  Note that the text is interpreted without modification, so unlike some other Java code options, you need to include any necessary 'new's when creating objects.
+  Default is null
+--config FILE
+  Read command option values from a file
+  Default is null
+--input FILENAME
+  The filename from which to read the list of training instances.  Use - for stdin.  The instances must be FeatureSequence or FeatureSequenceWithBigrams, not FeatureVector
+  Default is null
+--testing FILENAME
+  The filename from which to read the list of instances for held-out likelihood calculation.  Use - for stdin.  The instances must be FeatureSequence or FeatureSequenceWithBigrams, not FeatureVector
+  Default is null
+--output-state FILENAME
+  The filename in which to write the Gibbs sampling state after at the end of the iterations.  By default this is null, indicating that no file will be written.
+  Default is null
+--random-seed INTEGER
+  The random seed for the Gibbs sampler.  Default is 0, which will use the clock.
+  Default is 0
+--show-progress BOOLEAN
+  If true, print a character to standard output after every sampling iteration.
+  Default is true
+--show-topics-interval INTEGER
+  The number of iterations between printing a brief summary of the topics so far.
+  Default is 50
+--num-top-words INTEGER
+  The number of most probable words to print for each topic after model estimation.
+  Default is 20
+--num-levels INTEGER
+  The number of levels in the tree.
+  Default is 3
+--alpha DECIMAL
+  Alpha parameter: smoothing over level distributions.
+  Default is 10.0
+--gamma DECIMAL
+  Gamma parameter: CRP smoothing parameter; number of imaginary customers at next, as yet unused table
+  Default is 1.0
+--eta DECIMAL
+  Eta parameter: smoothing over topic-word distributions
+  Default is 0.1

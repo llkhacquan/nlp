@@ -1,0 +1,40 @@
+Use an existing topic model to infer topic distributions for new documents
+--help TRUE|FALSE
+  Print this command line option usage information.  Give argument of TRUE for longer documentation
+  Default is false
+--prefix-code 'JAVA CODE'
+  Java code you want run before any other interpreted code.  Note that the text is interpreted without modification, so unlike some other Java code options, you need to include any necessary 'new's when creating objects.
+  Default is null
+--config FILE
+  Read command option values from a file
+  Default is null
+--inferencer FILENAME
+  A serialized topic inferencer from a trained topic model.
+By default this is null, indicating that no file will be read.
+  Default is null
+--input FILENAME
+  The filename from which to read the list of instances
+for which topics should be inferred.  Use - for stdin.  The instances must be FeatureSequence or FeatureSequenceWithBigrams, not FeatureVector
+  Default is null
+--output-doc-topics FILENAME
+  The filename in which to write the inferred topic
+proportions per document.  By default this is null, indicating that no file will be written.
+  Default is null
+--doc-topics-threshold DECIMAL
+  When writing topic proportions per document with --output-doc-topics, do not print topics with proportions less than this threshold value.
+  Default is 0.0
+--doc-topics-max INTEGER
+  When writing topic proportions per document with --output-doc-topics, do not print more than INTEGER number of topics.  A negative value indicates that all topics should be printed.
+  Default is -1
+--num-iterations INTEGER
+  The number of iterations of Gibbs sampling.
+  Default is 100
+--sample-interval INTEGER
+  The number of iterations between saved samples.
+  Default is 10
+--burn-in INTEGER
+  The number of iterations before the first sample is saved.
+  Default is 10
+--random-seed INTEGER
+  The random seed for the Gibbs sampler.  Default is 0, which will use the clock.
+  Default is 0

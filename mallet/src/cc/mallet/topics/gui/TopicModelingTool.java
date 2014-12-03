@@ -50,6 +50,7 @@ public class TopicModelingTool {
 	private JTextField numThreads;
 	private Label label_1;
 	private JTextField numGrams;
+	private JCheckBox useSymmetricAlpha;
 
 	/**
 	 * Update text area.
@@ -601,10 +602,12 @@ public class TopicModelingTool {
 					String[] temp2 = { "--input", collectionPath,
 							"--num-topics", numTopics.getText(),
 							"--num-threads", numThreads.getText(),
-							"--output-state", stateFile, "--output-topic-keys",
-							topicKeysFile, "--output-doc-topics",
-							outputDocTopicsFile };
+							"--output-state", stateFile,
+							"--output-topic-keys", topicKeysFile,
+							"--output-doc-topics", outputDocTopicsFile,
+							"--use-symmetric-alpha", useSymmetricAlpha.isSelected()?"true":"false"};
 					Collections.addAll(trn, temp2);
+					
 					String[] fullTrainArgs = trn
 							.toArray(new String[trn.size()]);
 					// System.out.println(passedArgs);
@@ -1015,15 +1018,21 @@ public class TopicModelingTool {
 		numThreads.setText("8");
 		p3.add(numThreads);
 		p3.add(advancedButton);
-
+		
 		JPanel p4 = new JPanel();
-		p4.add(trainButton);
+
+		JPanel p5 = new JPanel();
+		p5.add(trainButton);
 
 		Box buttonBox = new Box(BoxLayout.Y_AXIS);
 		buttonBox.add(p1);
 		buttonBox.add(p2);
 		buttonBox.add(p3);
 		buttonBox.add(p4);
+		
+		useSymmetricAlpha = new JCheckBox("Use symmetric alpha");
+		p4.add(useSymmetricAlpha);
+		buttonBox.add(p5);
 		JSeparator sep = new JSeparator(JSeparator.HORIZONTAL);
 		buttonBox.add(sep);
 
